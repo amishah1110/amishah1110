@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amishah1110&label=Profile%20views&color=0e75b6&style=flat" alt="amishah1110" /> </p>
 
 - 📫 How to reach me **mailami.shah@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
